@@ -1,7 +1,8 @@
-## Ola! Sou o Pedro Teixeira
+## Olá! Sou o Pedro Teixeira!
 
 - 🔭 Estou cursando o segundo período de Engenharia de computação pela PUC Minas.
-- 🌱 Sempre buscando conhecimento em diversas linguagens, mas foco principal em JavaScript.
+- 🌱 Sempre buscando conhecimento em diversas linguagens.
+- 🧠 Foco nas linguagens para desenvolvimento mobile e web.
 
  <div>
   <a href="https://github.com/phtsouza">
