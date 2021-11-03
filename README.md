@@ -2,7 +2,6 @@
 
 - 🔭 Estou cursando o segundo período de Engenharia de computação pela PUC Minas.
 - 🌱 Sempre buscando conhecimento em diversas linguagens.
-- 🧠 Foco nas linguagens para desenvolvimento mobile e web.
 
  <div>
   <a href="https://github.com/phtsouza">
