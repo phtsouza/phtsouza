@@ -2,11 +2,6 @@
 
 - 🔭 Estou cursando o segundo período de Engenharia de computação pela PUC Minas.
 - 🌱 Sempre buscando conhecimento em diversas linguagens.
-
- <div>
-  <a href="https://github.com/phtsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phtsouza&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
