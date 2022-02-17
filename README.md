@@ -1,4 +1,4 @@
-## Olá! Sou o Pedro Teixeira
+## Olá! Sou o Pedro Teixeira!
 
 - 🔭 Estou cursando o segundo período de Engenharia de computação pela PUC Minas.
 - 🌱 Sempre buscando conhecimento em diversas linguagens.
