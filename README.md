@@ -1,6 +1,6 @@
 ## Olá! Sou o Pedro Teixeira!
 
-- 🔭 Estou cursando o segundo período de Engenharia de computação pela PUC Minas.
+- 🔭 Cursando o terceiro período de Engenharia de computação pela PUC Minas.
 - 🌱 Sempre buscando conhecimento em diversas linguagens.
   
 <div style="display: inline_block"><br>
