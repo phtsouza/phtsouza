@@ -1,7 +1,7 @@
 ## Olá! Sou o Pedro Teixeira!
 
-- 🔭 Cursando o quarto período de Engenharia de computação pela PUC Minas.
-- 🌱 Sempre buscando conhecimento em diversas linguagens.
+- 🔭 Cursando o sexto período de Engenharia de computação pela PUC Minas.
+- 🌱 Desenvolvedor .NET.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
